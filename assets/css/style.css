@@ -1,0 +1,15 @@
+#head-bar {
+    /* height: 20vh; */
+}
+
+#schedule-bar, #add-train {
+    border: 1px solid black
+}
+
+#train-schedule, #train-info {
+    border-bottom: 1px solid lightgray
+}
+.train-title {
+    font-weight: bold;
+    border-bottom: 1px solid lightgray
+}
