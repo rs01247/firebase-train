@@ -1,9 +1,6 @@
-#head-bar {
-    /* height: 20vh; */
-}
-
 #schedule-bar, #add-train {
-    border: 1px solid black
+    border: 1px solid black;
+    font-family: 'PT Sans', sans-serif;
 }
 
 #train-schedule, #train-info {
@@ -11,5 +8,11 @@
 }
 .train-title {
     font-weight: bold;
-    border-bottom: 1px solid lightgray
+    border-bottom: 1px solid lightgray;
+    font-family: 'Raleway', sans-serif; 
+}
+
+.user-input {
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
 }
